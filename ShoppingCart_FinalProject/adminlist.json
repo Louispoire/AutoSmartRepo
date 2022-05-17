@@ -1,0 +1,18 @@
+//this list is obsolete. It is no longer used by the system
+
+{"adminslist":[
+	{"employee":{
+		"id":"1234",
+		"dept":"IT",
+		"name":"john",
+		"password":"yeetus13"
+		}
+	},
+	{"employee":{
+		"id":"007",
+		"dept":"Spy",
+		"name":"james",
+		"password":"motus888"
+		}
+	}
+]}
